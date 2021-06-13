@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pourmalek
+- 👋 Hi, I’m @pourmalek :bird:
 - 👀 I’m interested in *Epidemiology and Public Health*
 - 🌱 I’m currently learning more git
 - 💞️ I’m looking to collaborate on *covid-19 models*
